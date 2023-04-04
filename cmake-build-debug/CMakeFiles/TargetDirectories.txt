@@ -1,3 +1,0 @@
-/home/udaka21/CLionProjects/pcdVisualizer/cmake-build-debug/CMakeFiles/pcdVisualizer.dir
-/home/udaka21/CLionProjects/pcdVisualizer/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/udaka21/CLionProjects/pcdVisualizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
