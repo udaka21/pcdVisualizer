@@ -11,7 +11,7 @@ int main()
     viewer.setBackgroundColor(0, 0, 0);
 
     pcl::PointCloud<pcl::PointXYZRGB>::Ptr cloud(new pcl::PointCloud<pcl::PointXYZRGB>);
-    if (pcl::io::loadPCDFile<pcl::PointXYZRGB>("Captured_Frame.pcd", *cloud) == -1)
+    if (pcl::io::loadPCDFile<pcl::PointXYZRGB>("../Captured_Frame.pcd", *cloud) == -1)
     {
         PCL_ERROR("Couldn't read file Captured_Frame.pcd\n");
         return (-1);
